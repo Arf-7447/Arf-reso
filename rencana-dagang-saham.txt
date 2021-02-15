@@ -1,4 +1,5 @@
 Rencana awal perdagangan
 - membeli saham saat turun
  *membeli saham garuda indonesia
+ *membeli saham sriwijaya
 - menjual saham saat naik
