@@ -1,3 +1,4 @@
 Rencana awal perdagangan
 - membeli saham saat turun
+ *membeli saham garuda indonesia
 - menjual saham saat naik
